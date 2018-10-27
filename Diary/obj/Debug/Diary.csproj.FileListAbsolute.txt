@@ -1,0 +1,7 @@
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\andrzej.gajewski\source\repos\Diary\Diary\obj\Debug\Diary.pdb
