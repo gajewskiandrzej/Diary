@@ -1,0 +1,7 @@
+E:\DEV\C#\Diary\Construktors\bin\Debug\Construktors.exe.config
+E:\DEV\C#\Diary\Construktors\bin\Debug\Construktors.exe
+E:\DEV\C#\Diary\Construktors\bin\Debug\Construktors.pdb
+E:\DEV\C#\Diary\Construktors\obj\Debug\Constructors.csprojAssemblyReference.cache
+E:\DEV\C#\Diary\Construktors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Diary\Construktors\obj\Debug\Construktors.exe
+E:\DEV\C#\Diary\Construktors\obj\Debug\Construktors.pdb

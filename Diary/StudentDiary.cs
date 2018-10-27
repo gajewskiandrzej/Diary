@@ -8,8 +8,13 @@ namespace Diary
 {
     class StudentDiary
     {
+        public StudentDiary()
+        {
+            ratings = new List<float>();
+        }
+
         //Stan (zmienne - pola)
-        List<float> ratings = new List<float>();
+        List<float> ratings;
 
         //Zachowania - metody
         public void AddRating(float rating)
