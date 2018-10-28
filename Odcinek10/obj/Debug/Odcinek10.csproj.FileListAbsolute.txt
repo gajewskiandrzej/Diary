@@ -1,0 +1,7 @@
+E:\DEV\C#\Diary\Odcinek10\bin\Debug\Odcinek10.exe.config
+E:\DEV\C#\Diary\Odcinek10\bin\Debug\Odcinek10.exe
+E:\DEV\C#\Diary\Odcinek10\bin\Debug\Odcinek10.pdb
+E:\DEV\C#\Diary\Odcinek10\obj\Debug\Odcinek10.csprojAssemblyReference.cache
+E:\DEV\C#\Diary\Odcinek10\obj\Debug\Odcinek10.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Diary\Odcinek10\obj\Debug\Odcinek10.exe
+E:\DEV\C#\Diary\Odcinek10\obj\Debug\Odcinek10.pdb
