@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Odcinek10
+namespace Diary
 {
     class StudentDiary
     {
@@ -22,26 +22,43 @@ namespace Odcinek10
             ratings.Add(rating);
         }
 
-        public float CalculateAverage()
+        //public float CalculateAverage()
+        //{
+        //    float sum = 0, avg = 0;
+
+        //    foreach (var rating in ratings)
+        //    {
+        //        sum += rating;
+        //    }
+        //    avg = sum / ratings.Count;
+        //    return avg;
+        //}
+
+        internal DiaryStatistics ComputeStatistic()
         {
-            float sum = 0, avg = 0;
+            DiaryStatistics stats = new DiaryStatistics();
+
+            float sum = 0f;
 
             foreach (var rating in ratings)
             {
                 sum += rating;
             }
-            avg = sum / ratings.Count;
-            return avg;
+            stats.averaGrade = sum / ratings.Count;
+            stats.maxGrade = ratings.Max();
+            stats.minGrade = ratings.Min();
+
+            return stats;
         }
 
-        public float GiveMaxRating()
-        {
-            return ratings.Max();
-        }
+        //public float GiveMaxRating()
+        //{
+        //    return ratings.Max();
+        //}
 
-        public float GiveMinRating()
-        {
-            return ratings.Min();
-        }
+        //public float GiveMinRating()
+        //{
+        //    return ratings.Min();
+        //}
     }
 }
